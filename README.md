@@ -23,9 +23,13 @@ To use this repository:
 
 Here is a list of available cheat sheets:
 
-- [Cheat Sheet 1: Markdown](docs/markdown.md)
-- [Cheat Sheet 2: Git](docs/git.md)
-- [Cheat Sheet 3: Python](docs/python.md)
+- [Cheat Sheet 1: Markdown](MarkDown/readme.md)
+- [Cheat Sheet 2: Git](Git/readme.md)
+- [Cheat Sheet 3: Git-Flow](Git/git-flow-cheatsheet.md)
+- [Cheat Sheet 4: Python](Python/readme.md)
+- [Cheat Sheet 5: Terminal](Terminal/readme.md)
+- [Cheat Sheet 6: Vim](Vim/readme.md)
+- [Cheat Sheet 7: VsCode](VsCode/readme.md)
 
 Feel free to add more cheat sheets as needed.
 
